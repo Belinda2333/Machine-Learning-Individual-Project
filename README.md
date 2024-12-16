@@ -26,10 +26,7 @@ Output Layer
 (3) Run the Code
 
 5. Results
-The main findings of the code can be found at the post on Medium
-
-6. Dataset Link:
+Dataset Link:
 https://drive.google.com/file/d/1Aj_UNWFWcsNSx_LYpFefoWwxs29n-kFl/view?usp=drive_link
-
-7. Medium Link:
+Medium Link:
 https://medium.com/@betty233699/cnn-for-image-classification-cat-vs-dog-417e37fe1fad
